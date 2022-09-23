@@ -3,10 +3,8 @@
 👨 My name is Kaio Conde, I'm the current developer and owner of **Desenvolvimento de Habbos**!<br>
 ⚙️ Fully focused on web development.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhabbos&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhabbos&layout=compact&theme=tokyonight"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhabbos&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhabbos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 My Social Networks
 
