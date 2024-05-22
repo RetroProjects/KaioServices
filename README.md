@@ -1,6 +1,6 @@
 ## Hello World!
 
-👨 My name is Kaio Conde, I'm the current developer and owner of **Desenvolvimento de Habbos**!<br>
+👨 My name is Kaio Conde, I'm the current developer and owner of **Desenvolvimento de Habbos / Dev Retros**!<br>
 ⚙️ Fully focused on web development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhabbos&show_icons=true&theme=radical&hide=prs,issues,contribsl)
