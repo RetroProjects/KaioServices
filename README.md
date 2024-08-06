@@ -1,15 +1,9 @@
-## Hello World!
-
-👨 My name is Kaio Conde, I'm the current developer and owner of **Desenvolvimento de Habbos / Dev Retros**!<br>
-⚙️ Fully focused on web development.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhabbos&show_icons=true&theme=radical&hide=prs,issues,contribsl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhabbos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hello Habbo!
 
 ## 💼 My Social Networks
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/DesenvolvimentodeHabbos)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devhabbo.online/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devretros.shop/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YDmbap49bJ)
 
 ## 🤖 My Programming Languages
